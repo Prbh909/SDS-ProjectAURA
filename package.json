@@ -1,0 +1,7 @@
+{
+  "name": "sds-project-aura",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SDS Project AURA educational web prototype",
+  "scripts": {"start": "npx serve ."}
+}
